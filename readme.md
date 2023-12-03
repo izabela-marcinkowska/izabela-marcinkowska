@@ -21,7 +21,7 @@ Here are some of the recognitions and badges I've earned along my coding journey
 - 🎨 A keen eye for design, often exploring the intersection of technology and art.
 - 📖 When not coding, I'm likely immersed in a book, building Lego or traveling with my [boyfriend](https://johnie.se)
 
-## Let's Connect:
+### Let's Connect:
 - 💼 [LinkedIn](https://www.linkedin.com/in/izabela-marcinkowska-199763199/)
 - 📫 Email me at [hi@izabela.se](mailto:hi@izabela.se)
 - 📁 Check out my [Website](http://iabela.se) (upcoming)
