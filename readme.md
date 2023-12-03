@@ -1,7 +1,6 @@
 ![Profile Banner](/izabela.jpg)
 
 ### 👋 Hi there! I'm Bella
-
 Originally from Poland, I now call Stockholm, Sweden my home since 2012. My coding journey began in early 2022 and it quickly blossomed into a passion for web development and beyond.
 
 #### 🌐 Web Development & Coding Journey
