@@ -9,7 +9,7 @@ Originally from Poland, I now call Stockholm, Sweden my home since 2012. My codi
 - **Working Style**: Experienced in mob programming, adapting to group work, and employing Test-Driven Development (TDD) methodologies.
 
 #### 💼 Professional Goals
-- **Current Focus**: Developing a robust [Password Generator](https://github.com/izabela-marcinkowska/password-generator).
+- **Current Focus**: Developing dynamic solution for office space management. [Deskify](https://deskify.space).
 - **Looking Forward**: Eager to meet new people in the field, collaborate on innovative projects, and continuously enhance my coding skills.
 
 #### 🏅 Badges & Achievements
