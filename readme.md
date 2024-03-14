@@ -9,7 +9,7 @@ Originally from Poland, I now call Stockholm, Sweden my home since 2012. My codi
 - **Working Style**: Experienced in mob programming, adapting to group work, and employing Test-Driven Development (TDD) methodologies.
 
 #### 💼 Professional Goals
-- **Current Focus**: Developing dynamic solution for office space management. [Deskify](https://deskify.space).
+- **Current Focus**: Developing IBS and FODMAPs tracker Journal supported with AI analyzing system. [DigestEase](https://digest-ease.vercel.app).
 - **Looking Forward**: Eager to meet new people in the field, collaborate on innovative projects, and continuously enhance my coding skills.
 
 #### 🏅 Badges & Achievements
