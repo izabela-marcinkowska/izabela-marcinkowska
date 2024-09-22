@@ -1,16 +1,16 @@
 ![Profile Banner](/izabela.jpg)
 
-### 👋 Hi there! I'm Bella
-Originally from Poland, I now call Stockholm, Sweden my home since 2012. My coding journey began in early 2022 and it quickly blossomed into a passion for web development and beyond.
+### 👋 Hi there! I'm Bella  
+Originally from Poland, I now call Stockholm, Sweden my home since 2012. My coding journey began in early 2022 and quickly expanded beyond web development into the exciting world of mobile app development, specifically focusing on iOS.
 
-#### 🌐 Web Development & Coding Journey
-- **Languages & Technologies**: After starting with Python, C# and PHP I decided to focus on Web development working on small CSS and HTML projects as [Johnies Restaurant](https://github.com/izabela-marcinkowska/Restaurant-Project) and [Omnifood](https://github.com/izabela-marcinkowska/Omnifood-Project)
-- **Education**: A graduate of [SALT](https://github.com/saltsthlm) - an intense 13-week program where I was among the top 5% of applicants. Here, I honed both front-end and back-end development skills, specifically in CSS, HTML, TypeScript, Node.js, PostgreSQL, React, Redux, Express and more.
-- **Working Style**: Experienced in mob programming, adapting to group work, and employing Test-Driven Development (TDD) methodologies.
+#### 🌐 Coding Journey & Current Focus
+- **Languages & Technologies**: Starting with Python, C#, and PHP, I initially worked on web development projects like [Johnies Restaurant](https://github.com/izabela-marcinkowska/Restaurant-Project) and [Omnifood](https://github.com/izabela-marcinkowska/Omnifood-Project).
+- **Notable Projects**: One of my key projects is **[DigestEase](https://github.com/izabela-marcinkowska/digestEase)**, an app designed to help users track their food intake with consideration for IBS (Irritable Bowel Syndrome). It's focused on helping users manage their diet based on their digestive health needs.
+- **Current Focus**: Recently, I’ve shifted my focus to learning **Swift** and **SwiftUI** for iOS development, applying my knowledge to create intuitive and functional mobile apps.
 
 #### 💼 Professional Goals
-- **Current Focus**: Developing IBS and FODMAPs tracker Journal supported with AI analyzing system. [DigestEase](https://digest-ease.vercel.app).
-- **Looking Forward**: Eager to meet new people in the field, collaborate on innovative projects, and continuously enhance my coding skills.
+- **Current Focus**: Mastering **iOS development** with Swift and SwiftUI, with a goal of building functional, well-designed apps.
+- **Looking Forward**: Always eager to collaborate on mobile app projects and expand my knowledge in app architecture, design patterns, and user experience in the context of iOS.
 
 #### 🏅 Badges & Achievements
 Here are some of the recognitions and badges I've earned along my coding journey:
@@ -23,7 +23,7 @@ Here are some of the recognitions and badges I've earned along my coding journey
 ### Let's Connect:
 - 💼 [LinkedIn](https://www.linkedin.com/in/izabela-marcinkowska-199763199/)
 - 📫 Email me at [hi@izabela.se](mailto:hi@izabela.se)
-- 📁 Check out my [Website](http://iabela.se) (upcoming)
+- 📁 Check out my [Website](http://iabela.se) 
 
 I'm always open to collaborating on projects, discussing new technologies, or simply connecting with fellow tech enthusiasts. Feel free to reach out!
 
