@@ -1,29 +1,26 @@
 ![Profile Banner](/izabela.jpg)
 
 ### 👋 Hi there! I'm Bella  
-Originally from Poland, I now call Stockholm, Sweden my home since 2012. My coding journey began in early 2022 and quickly expanded beyond web development into the exciting world of mobile app development, specifically focusing on iOS.
+Originally from Poland, I now call Stockholm, Sweden my home since 2012. My coding journey began in early 2022, starting with web development and evolving into iOS development.
 
 #### 🌐 Coding Journey & Current Focus
-- **Languages & Technologies**: Starting with Python, C#, and PHP, I initially worked on web development projects like [Johnies Restaurant](https://github.com/izabela-marcinkowska/Restaurant-Project) and [Omnifood](https://github.com/izabela-marcinkowska/Omnifood-Project).
-- **Notable Projects**: One of my key projects is **[DigestEase](https://github.com/izabela-marcinkowska/digestEase)**, an app designed to help users track their food intake with consideration for IBS (Irritable Bowel Syndrome). It's focused on helping users manage their diet based on their digestive health needs.
-- **Current Focus**: Recently, I’ve shifted my focus to learning **Swift** and **SwiftUI** for iOS development, applying my knowledge to create intuitive and functional mobile apps.
+- **Languages & Technologies**: Began with Python, C#, and PHP, developing web projects like [Johnies Restaurant](https://github.com/izabela-marcinkowska/Restaurant-Project) and [Omnifood](https://github.com/izabela-marcinkowska/Omnifood-Project).
+- **Notable Projects**: 
+  - **[DigestEase](https://github.com/izabela-marcinkowska/digestEase)**: An app to help users track their food intake with IBS considerations.
+  - **[Deskify](https://github.com/Purrgrammers/deskify)**: Bootcamp project offering an interactive map for office managers to create, edit, and manage office layouts.
+- **Current Focus**: Learning **Swift** and **SwiftUI** for iOS development through the [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui) course.
 
 #### 💼 Professional Goals
-- **Current Focus**: Mastering **iOS development** with Swift and SwiftUI, with a goal of building functional, well-designed apps.
-- **Looking Forward**: Always eager to collaborate on mobile app projects and expand my knowledge in app architecture, design patterns, and user experience in the context of iOS.
+- **Mastering iOS Development**: Aiming to build functional, well-designed apps with Swift and SwiftUI.
+- **Open to Collaboration**: Eager to work on mobile app projects and deepen my knowledge of app architecture, design patterns, and user experience.
 
-#### 🏅 Badges & Achievements
-Here are some of the recognitions and badges I've earned along my coding journey:
-[![An image of @izabelamarcinkowska's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/izabelamarcinkowska)](https://holopin.io/@izabelamarcinkowska)
+#### 🌟 Beyond Code:
+- 🎨 Documenting my coding adventures on [Threads](https://www.threads.net/@bugs_and_lemons) and [Instagram](https://www.instagram.com/bugs_and_lemons/)
+- 🧩 Outside of coding, you’ll find me building LEGO, exploring new places, or enjoying time with my [boyfriend](https://johnie.se).
 
-#### Beyond Code:
-- 🎨 A keen eye for design, often exploring the intersection of technology and art.
-- 📖 When not coding, I'm likely immersed in a book, building Lego or traveling with my [boyfriend](https://johnie.se)
-
-### Let's Connect:
+### 🤝 Let's Connect:
 - 💼 [LinkedIn](https://www.linkedin.com/in/izabela-marcinkowska-199763199/)
-- 📫 Email me at [hi@izabela.se](mailto:hi@izabela.se)
-- 📁 Check out my [Website](http://iabela.se) 
+- 📫 Email: [hi@izabela.se](mailto:hi@izabela.se)
+- 📁 More about me on [Website](http://iabela.se) or [Threads](https://www.threads.net/@bugs_and_lemons)
 
-I'm always open to collaborating on projects, discussing new technologies, or simply connecting with fellow tech enthusiasts. Feel free to reach out!
-
+Feel free to reach out for collaboration, tech discussions, or just to connect!
