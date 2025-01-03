@@ -1,5 +1,3 @@
-![Profile Banner](/izabela.jpg)
-
 ### 👋 Hi there! I'm Bella  
 Originally from Poland, I now call Stockholm, Sweden my home since 2012. My coding journey began in early 2022, starting with web development and evolving into iOS development.
 
